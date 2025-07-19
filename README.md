@@ -1,14 +1,14 @@
-## 👋 Hi there, I'm Aman Gupta!
-
+                                                         👋 Hi there, I'm Aman Gupta!
 🎓 MCA Student | 💻 Java Developer | 🚀 Passionate about DSA & Backend Development
 
-- 🔭 Currently working on: Java-based projects and solving DSA problems
+- 🔭 Currently working on Java-based projects and consistently solving DSA problems
 - 🌱 Learning: Spring Boot, SQL, Git, and Web Development
-- 📫 ### 📫 How to reach me:
+-🙋‍♂️  open to intership and freelance opportunities in backend development
+- 🧠 LeetCode: [https://leetcode.com/AmanGupta_21/](https://leetcode.com/AmanGupta_21/)
 
+- 📫 ### 📫 How to reach me:
 - 📧 Email: [guptaanay2@gmail.com](guptaanay2@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aman-gupta21](linkedin.com/in/aman-gupta21)
-- - 🧠 LeetCode: [https://leetcode.com/AmanGupta_21/](https://leetcode.com/AmanGupta_21/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/aman-gupta21](https://www.linkedin.com/in/aman-gupta21)
 
 
 
